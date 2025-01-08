@@ -1,5 +1,4 @@
 # Ignore Compiled Python Files
-__pycache__/
 *.pyc
 
 # Ignore MacOS Filesystem Files
