@@ -1,5 +1,3 @@
-# ECM1410 Workshop 0
+# Python Template
 
-In this module we will code the workshop activities in the online GitHub Codespaces IDE, and manage assignments using GitHub classrooms.
-
-This activity introduces you to working in this environment. 
+This is a template repository for a Python codespace assignment
